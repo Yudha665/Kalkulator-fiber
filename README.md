@@ -1,3 +1,4 @@
 # Kalkulator-fiber
-[📥 Download Aplikasi APK di Sini](https://raw.githubusercontent.com/Yudha665/Kalk/main/Calculator_rasio.apk)
+[📥 Download Aplikasi APK di Sini](Calculator_rasio.apk)
+Pencet link di atas terus pencet titik 3 klik download
 
